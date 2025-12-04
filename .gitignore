@@ -1,3 +1,4 @@
 .venv
 proyecto/ham1000_data
 proyecto/ham1000_data_splits
+proyecto/resunet_gsd_lr5e4.pt
